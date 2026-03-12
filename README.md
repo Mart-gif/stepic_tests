@@ -1,1 +1,1 @@
-# stepic_tests
+# stepik_tests
